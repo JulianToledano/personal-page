@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://seasidebyjt.com/"
 languageCode = "en-us"
-title = "Julián"
-baseurl = "http://www.example.com"
+title = "blog"
+baseurl = "https://www.seasidebyjt.com"
 
 theme = "hugo-coder"
 
@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "Python developer, future gopher"
     avatarurl = "images/avatar.jpg"
-    footercontent = "There is nothing so stable as chenge."
+    footercontent = "There is nothing so stable as change."
 
     # dateformat = "October 12, 2020"
 
