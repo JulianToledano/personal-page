@@ -1,6 +1,6 @@
 baseURL = "https://seasidebyjt.com/"
 languageCode = "en-us"
-title = "blog"
+title = "Home"
 baseurl = "https://www.seasidebyjt.com"
 
 theme = "hugo-coder"
@@ -14,13 +14,13 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "@disqus_WHpFCYRSY3"
 
 [params]
     author = "Julián Toledano"
     description = "Julián Toledano's personal website"
     keywords = "blog,developer,personal"
-    info = "Python developer, future gopher"
+    info = "Gopher at BBVA Next"
     avatarurl = "images/avatar.jpg"
     footercontent = "There is nothing so stable as change."
 
@@ -97,10 +97,10 @@ disqusShortname = "yourdiscussshortname"
             weight = 2
             url = "posts/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
+            #[[languages.en.menu.main]]
+            #name = "Projects"
+            #weight = 3
+            #url = "projects/"
 
             [[languages.en.menu.main]]
             name = "Contact me"

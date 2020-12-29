@@ -3,6 +3,8 @@ date = "2020-07-27"
 title = "Test With Python and Lemoncheesecake"
 description = "Test With Python and Lemoncheesecake"
 katex = false
+tags = ["python","testing"]
+categories = ["python"]
 series = ["Python", "testing"]
 +++
 # Test With Python and Lemoncheesecake
