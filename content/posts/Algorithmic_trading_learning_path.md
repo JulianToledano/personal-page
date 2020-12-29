@@ -1,18 +1,16 @@
 +++ 
-draft = true
 date = 2020-12-29T19:19:52+01:00
 title = "Algorithmic Trading Learning Path"
 description = "My path to become an algorithmic trader"
 slug = "" 
 tags = ["python","finance"]
 categories = ["finance"]
-externalLink = ""
 series = ["Becoming and Algorithmic Trader"]
 +++
 
 
-**Note:** This list may change in the future. Some courses could be deleted as new ones may be added.
 # Algorithmic Trading Path
+**Note:** This list may change in the future. Some courses could be deleted as new ones may be added.
 
 ![alt next](/images/post/algo_trading_path/chart.png)
 I've always liked trading in general and algo trading in particular since I was a kid. Now after two years of working I have enough money to try to win more in the markets. This is nothing more than my personal path to become a sucessful trader. Since it's easier to follow a path once is written down, thats what I'm doing.
