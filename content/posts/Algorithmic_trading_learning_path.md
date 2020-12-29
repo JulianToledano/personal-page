@@ -9,6 +9,8 @@ categories = ["finance"]
 externalLink = ""
 series = ["Becoming and Algorithmic Trader"]
 +++
+
+
 **Note:** This list may change in the future. Some courses could be deleted as new ones may be added.
 # Algorithmic Trading Path
 
