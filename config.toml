@@ -103,6 +103,11 @@ disqusShortname = "https-www-seasidebyjt-com"
             #url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Reads"
+            weight = 4
+            url = "reads/"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
             weight = 5
             url = "contact/"
