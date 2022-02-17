@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-You can reach me at my [github](https://github.com/JulianToledano)!
+You can reach me at my [Linkedin](https://es.linkedin.com/in/juliantoledano)
